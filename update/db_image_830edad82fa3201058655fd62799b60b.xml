@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image">
+    <db_image action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <format>JPEG</format>
+        <height>32</height>
+        <image/>
+        <name>ikon.jpg</name>
+        <size_bytes>824</size_bytes>
+        <sys_class_name>db_image</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-12 09:09:31</sys_created_on>
+        <sys_id>830edad82fa3201058655fd62799b60b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>ikon.jpg</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>db_image_830edad82fa3201058655fd62799b60b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-12 09:09:31</sys_updated_on>
+        <thumbnail/>
+        <width>32</width>
+    </db_image>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#393962</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/jpeg</content_type>
+        <encryption_context/>
+        <file_name>image</file_name>
+        <hash>a07193ae30ed4773fa6f0f34fd4a2ac5235f390109636f2b37431547af50a602</hash>
+        <image_height>32</image_height>
+        <image_width>32</image_width>
+        <size_bytes>824</size_bytes>
+        <size_compressed>772</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-12 09:09:31</sys_created_on>
+        <sys_id>070edad82fa3201058655fd62799b60e</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-12 09:09:31</sys_updated_on>
+        <table_name>ZZ_YYdb_image</table_name>
+        <table_sys_id>830edad82fa3201058655fd62799b60b</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="image" sys_id="070edad82fa3201058655fd62799b60e">070edad82fa3201058655fd62799b60e</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-12 09:09:31</sys_created_on>
+        <sys_id>470edad82fa3201058655fd62799b60e</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>+3/j/wMGAS83TzcGRkZGBg8gZPh/m8GZgZWZhYWFmRVIsLKysrHzcLADAT83NyePIL+QkCC/oKCwmIy4sIiUqKCghKKElKysvLy8sLiSipKcioycvBzIEEagVnY2dj4ODj45EUEROZLB/wMMghwMCgwKzIxKDEyCjMyCjP+PMEgyMDAxMzIgAWYOBjZ2VqCUoQADExMjEwsjFztUAVAlCyubEAO7oLAIh4qqSXBSUdOkjaKKTs4ugSGFQC0SjAzMjCimMTCzsbADZRQEGRhZGFmYERKMQONYFFkFDR0DGyf+v8XAA3QGkyCzIIM9Q+CavRcTN/KluMh86dD890O+o35b+lUb77gt9/vq/nD39RY9bUxyULGZd37qxLXSPEo/2n+n1QYfne1gLtl/JrlUbdPBqCtSpuVp8/z2Vm/a/MprpsRMpibOl0aJrMq8UzYk7OI88bVSuv+S+pkYh898hzdK3M56/2hd1CqdRaeZ3q6e7VRrPVXl2tV5N+XPqakcUugok6spmnZtxt7p13dxs8x64bTtNa9cbVSLyvOSnQHWqVsitScL87Ysinv4Vqoj+2z8tTcWEosnvL3nf+TZMUtFnbK9mftl/v7YtXxK1aP7uvrZu37c27Li2+20iY6tF5cduCO+MMhw18oSjTae87E982Y7dGlPWaHwK83o5I6omnWy1mIZUmdXZLJM8Gk5/9dQ6CZvq4nLMZcOiXXOn7OADuq4EPXdCuig7Rl/E2RBDspR3RQNclCDgi3QQZfeSrWsnnX3w2shd8Fjz+1+ueQeUE2q61rf/C/P3ene5nebvrG95D9lVKT4Tu/S9d854bNN7nm+vS72obSg8s9SjeXOO/byrzzSu09NweW2T1JC4tfUQiHPRN3Ftwwlmtcah1mffC+aP7OS5x/f/IdbHm3pW37hVUFP5L1kA9OoZIbQaIacQB+2awtcvHb2nI2dfSHky/HflaX5j71NPovVawtNNbC9FpRQN5V/tr/a+v83AaVgXgE4AwAA</data>
+        <length>1016</length>
+        <position>1</position>
+        <sys_attachment display_value="image" sys_id="070edad82fa3201058655fd62799b60e">070edad82fa3201058655fd62799b60e</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-12 09:09:31</sys_created_on>
+        <sys_id>c70edad82fa3201058655fd62799b60e</sys_id>
+    </sys_attachment_doc>
+</record_update>
